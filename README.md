@@ -54,7 +54,7 @@
   </a>
 	&emsp;
    <a href="https://dart.dev/guides" target="_blank">
-    <img alt="Dart" src="[https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dart-logo.png/900px-Dart-logo.png)">
+    <img alt="Dart" src="https://dart.dev/assets/img/shared/dart/logo+text/horizontal/white.svg">
   </a>
 </p>
 
