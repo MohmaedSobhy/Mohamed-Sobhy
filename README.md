@@ -52,9 +52,9 @@
    <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
   </a>
-	&emsp;
+ &emsp;
    <a href="https://dart.dev/guides" target="_blank">
-    <img alt="Dart" src="https://dart.dev/assets/img/shared/dart/logo+text/horizontal/white.svg">
+    <img alt="Dart" src="https://dart.dev/assets/img/shared/dart/logo+text/horizontal/white.svg" width=10>
   </a>
 </p>
 
