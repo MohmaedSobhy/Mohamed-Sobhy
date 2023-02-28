@@ -13,7 +13,7 @@
 <br><br>
 - :school: I am a `Junior' Computer Sciense
 - :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces `Codeforces,
+- :computer: I am a competitive programmer at `Codeforces  `Leetcode`,
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/drive/folders/1W9OcHFaUxXLB8aK9HzNHwtlFfdB72V4N).
