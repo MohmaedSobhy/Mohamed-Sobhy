@@ -6,6 +6,19 @@
 </p>
 <br>
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 150px/>
+## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
+
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
+
+<br><br>
+
+- :school: I am a `Junior' Computer Sciense
+- :technologist: I love using Software as a solution for every `Problem`.
+- :computer: I am a competitive programmer at `Codeforces `Leetcode`,
+- :student: I’m currently learning `Computer Science` and `Software Engineering`.
+- :nerd_face: Always `learning new things`.
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/drive/folders/1W9OcHFaUxXLB8aK9HzNHwtlFfdB72V4N).
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudnamish&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudnamish" /> </p>
 
