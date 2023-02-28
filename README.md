@@ -34,7 +34,7 @@
 	  &emsp;
 </div>
 
-### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width=5%> Programming languages
+###  Programming languages
 
 <p align="center">  
   <a href="https://www.cprogramming.com/" target="_blank"> 
