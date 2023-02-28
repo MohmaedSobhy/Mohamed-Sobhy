@@ -45,7 +45,6 @@
     <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
   </a> 
   &emsp;
-  &emsp;
   <a href="https://www.java.com" target="_blank"> 
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
   </a>
@@ -55,9 +54,10 @@
   </a>
 	&emsp;
    <a href="https://dart.dev/guides" target="_blank">
-    <img alt="Dart" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
+    <img alt="Dart" src="[https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dart-logo.png/900px-Dart-logo.png)">
   </a>
 </p>
+
 <h3 align="left">📩 Connect with me</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mohamed-sobhy-8137131bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoud-essam-nameish-672284240" height="30" width="40" /></a>
