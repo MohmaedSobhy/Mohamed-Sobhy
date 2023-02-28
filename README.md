@@ -54,7 +54,7 @@
   </a>
  &emsp;
    <a href="https://dart.dev/guides" target="_blank">
-    <img alt="Dart" src="https://dart.dev/assets/img/shared/dart/logo+text/horizontal/white.svg" width=50 hight=50>
+    <img alt="Dart" src="https://dart.dev/assets/img/shared/dart/logo+text/horizontal/white.svg" width=70 hight=70>
   </a>
 </p>
 
