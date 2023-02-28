@@ -26,6 +26,9 @@
 
 - ⚡ Fun fact **I enjoy writing code and solving problems😍😉**
 
+## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%> My Competitive Programming Profiles
+
+
 <h3 align="left">📩 Connect with me</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mohamed-sobhy-8137131bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoud-essam-nameish-672284240" height="30" width="40" /></a>
