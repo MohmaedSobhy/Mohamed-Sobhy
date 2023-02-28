@@ -57,8 +57,7 @@
    <a href="https://dart.dev/guides" target="_blank">
     <img alt="Dart" src="https://dart.dev/assets/img/shared/dart/logo+text/horizontal/white.svg" width=70 hight=70>
   </a>
-</p>
- ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width=5%>  Software & Tools
+
 <p align="center">
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
