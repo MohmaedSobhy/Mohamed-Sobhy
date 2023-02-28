@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Sobhy ⭐</h1>
 <h3 align="center"> Software Engineering💎</h3>
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome,+Let's+follow+each+other+🙄" /> </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mahmoudnamish&label=Profile%20views&color=004080&style=flat" alt="mahmoudnamish" height="30" width="180" />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=MohmaedSobhy&label=Profile%20views&color=004080&style=flat" alt="MohmaedSobhy" height="30" width="180" />
 	           <img src="https://img.shields.io/github/followers/MohmaedSobhy?label=Followers&color=600000&style=flat" alt="MohmaedSobhy" height="30" width="100" />
 </p>
 <br>
